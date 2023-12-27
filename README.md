@@ -3,6 +3,10 @@
 ## Overview Problems
 Permasalahan dari project ini yaitu bagaimana cara membuat model dengan akurasi bagus dari dataset RPS
 
+<p>
+    <img src="https://storage.googleapis.com/tfds-data/visualization/fig/rock_paper_scissors-3.0.0.png"/>
+</p>
+
 ![image 1](https://storage.googleapis.com/tfds-data/visualization/fig/rock_paper_scissors-3.0.0.png)
 
 ## Overview Dataset
