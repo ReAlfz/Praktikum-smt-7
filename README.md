@@ -3,7 +3,7 @@
 ## Overview Problems
 Permasalahan dari project ini yaitu bagaimana cara membuat model dengan akurasi bagus dari dataset RPS
 
-![image](https://storage.googleapis.com/tfds-data/visualization/fig/rock_paper_scissors-3.0.0.png)
+![ScreenShot](https://storage.googleapis.com/tfds-data/visualization/fig/rock_paper_scissors-3.0.0.png)
 
 ## Overview Dataset
 Dataset ini sudah tersedia pada website tensorflow, dataset dibagi menjadi 70% training, 25% validation, 5% testing.<br>link url untuk download dataset: https://storage.googleapis.com/laurencemoroney-blog.appspot.com/rps.zip
@@ -13,7 +13,7 @@ Pada bagian preprocessing data di rescale 1/255 lalu rotasi, zoom, shear, shift 
 
 Untuk model kami menggunakan model _MobileNet_ dan ini adalah ilustrasi bagaimana _MobileNet_ berkerja
 
-![image](https://www.researchgate.net/publication/348830807/figure/fig1/AS:1022398732185600@1620770261147/Schematic-diagram-of-the-MobileNet-SSD-network-model-structure.jpg)
+![ScreenShot](https://www.researchgate.net/publication/348830807/figure/fig1/AS:1022398732185600@1620770261147/Schematic-diagram-of-the-MobileNet-SSD-network-model-structure.jpg)
 
 Summary Model:
 
